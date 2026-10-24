@@ -31,7 +31,7 @@
 | Windows (x86_64) | `Sunclasses_Setup_1.5.1.exe` |
 | Linux (x86_64) | `Sunclasses-1.5.1-linux-x86_64-onedir.tar.gz` |
 
-Альтернативная ссылка: https://sunclasses.ru/downloads/
+Альтернативная ссылка: https://sunclasses.ru
 
 ## Установка
 
