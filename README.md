@@ -44,10 +44,10 @@
 
 ### Тестовые данные и скрипты-генераторы 🆕
 Для безопасного тестирования, демонстрации или регрессионных проверок без использования реальных данных учеников.
-👉 **[Скачать архив со сгенерированными отчетами (Release: data)](https://github.com/annac85/sunclasses/releases/tag/data)**
+**[Скачать архив со сгенерированными отчетами (Release: data)](https://github.com/annac85/sunclasses/releases/tag/data)**
 
 
-👉 **[Скачать архив с тестовыми данными (Release: dataset)](https://github.com/annac85/sunclasses/releases/tag/dataset)**
+**[Скачать архив с тестовыми данными (Release: dataset)](https://github.com/annac85/sunclasses/releases/tag/dataset)**
 
 **Что внутри архива:**
 - `test_grades_NOO_current.xlsx` (Начальная школа, текущий год)
